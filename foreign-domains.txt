@@ -1,3 +1,2 @@
-+.ipleak.net
 +.steampowered.com
 geosite:geolocation-!cn
