@@ -1,3 +1,4 @@
-
-# 这里可以放置需要特殊处理的域名
-# 当前配置中所有域名都已包含在上述两个规则集中
+# special-domains.txt 内容
+# 这里放置需要特殊处理的域名
++.very-special-domain.com
+special-case.org
