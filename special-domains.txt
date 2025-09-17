@@ -1,4 +1,3 @@
 # special-domains.txt 内容
 # 这里放置需要特殊处理的域名
-+.very-special-domain.com
-special-case.org
++.ipleak.net
