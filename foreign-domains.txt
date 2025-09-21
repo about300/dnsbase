@@ -1,2 +1,3 @@
-+.steampowered.com
-geosite:geolocation-!cn
+"+.steampowered.com"
+"+.ipleak.net"
+"geosite:geolocation-!cn"
