@@ -1,0 +1,18 @@
+yaml
+payload:
+  - pool.ntp.org
+  - www.recaptcha.net
+  - +.synology.com
+  - +.imnks.com
+  - +.letsencrypt.org
+  - +.synology.+
+  - +.msftncsi.com
+  - +.windowsupdate.com
+  - +.microsoft.com
+  - +.microsoftonline.com
+  - +.microsoftonline-p.+
+  - +.msftconnecttest.+
+  - +.rr.uu.+
+  - +.dedyn.+
+  - +.jdshipin.+
+  - geosite:cn
