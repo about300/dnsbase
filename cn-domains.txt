@@ -1,4 +1,3 @@
-geosite:cn
 +.synology.+
 +.familyds.+
 +.imnks.+
