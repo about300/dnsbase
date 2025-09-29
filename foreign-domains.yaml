@@ -1,5 +1,2 @@
-yaml
 payload:
-  - ipleak.net
-  - +.ipleak.net
-  - geosite:geolocation-!cn
+    - +.ipleak.net
