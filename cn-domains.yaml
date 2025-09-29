@@ -1,7 +1,8 @@
-geosite:cn
-+.synology.+
-+.familyds.+
-+.imnks.+
-+.pool.ntp.org
-+.msftconnecttest.+
-+.msftncsi.+
+payload:
+    - geosite:cn
+    - +.synology.+
+    - +.familyds.+
+    - +.imnks.+
+    - +.pool.ntp.org
+    - +.msftconnecttest.+
+    - +.msftncsi.+
