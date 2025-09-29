@@ -1,6 +1,0 @@
-+.synology.+
-+.familyds.+
-+.imnks.+
-+.pool.ntp.org
-+.msftconnecttest.+
-+.msftncsi.+
