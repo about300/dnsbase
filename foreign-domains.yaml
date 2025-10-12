@@ -1,5 +1,5 @@
 yaml
 payload:
-  - '+.cnbeta.com'
-  - '+.ipleak.net'
-  - '+.github.com'
+    - '+.cnbeta.com'
+    - '+.ipleak.net'
+    - '+.github.com'
