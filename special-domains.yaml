@@ -1,3 +1,4 @@
-yaml
 payload:
-    - +.cnbeta.+
+  - '+.cnbeta.com'
+  - '+.ipleak.net'
+  - '+.github.com'
