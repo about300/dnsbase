@@ -1,6 +1,7 @@
 yaml
 payload:
-    # other
+    - 'geosite:connectivity-check'
+    - 'geosite:private'
     - '*.pttime.online'
     - '*.hdchina.org'
     - '*.m-team.cc'
@@ -10,10 +11,7 @@ payload:
     - '*.tracker'
     - '*.torrent'
     - '*.peer'
-    - '*.lan'
-    - '*.nict.jp'
-    - '*.ntp.org'
-    - 'pool.ntp.org'
+  # synology
     - '*.synology'
     - '*.ipify'
     - '*.imnks'
@@ -30,10 +28,6 @@ payload:
     - '*.i234.me'
     - '*.diskstation.me'
     - '*.synology.me'
-    - '*.linksys.com'
-    - '*.linksyssmartwifi.com'
-    - '*.linksys.com'
-    - '*.linksyssmartwifi.com'
     #LAN
     - '*.lan'
     - '*.localdomain'
