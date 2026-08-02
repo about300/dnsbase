@@ -5,4 +5,6 @@ payload:
     - '+.imnks.com'
     - '+.pool.ntp.org'
     - '+.msftconnecttest.com'
-    - '+.msftncsi.com'
+    - '+.msftncsi.com' 
+    - 'checkip.synology.com'
+    - '+.checkip.synology.com'
