@@ -8,3 +8,4 @@ payload:
     - '+.msftncsi.com' 
     - 'checkip.synology.com'
     - '+.checkip.synology.com'
+    - '+.checkipv6.synology.com'
