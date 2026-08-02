@@ -12,6 +12,15 @@ payload:
     - '*.torrent'
     - '*.peer'
   # synology
+    - '+.synology.com'       # 匹配 synology.com 及所有子域
+    - '+.familyds.com'
+    - '+.imnks.com'
+    - '+.pool.ntp.org'
+    - '+.msftconnecttest.com'
+    - '+.msftncsi.com' 
+    - 'checkip.synology.com'
+    - '+.checkip.synology.com'
+    - '+.checkipv6.synology.com'
     - '*.synology'
     - '*.ipify'
     - '*.imnks'
