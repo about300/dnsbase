@@ -9,3 +9,4 @@ payload:
     - 'checkip.synology.com'
     - '+.checkip.synology.com'
     - '+.checkipv6.synology.com'
+    - '+.quickconnect.to'
