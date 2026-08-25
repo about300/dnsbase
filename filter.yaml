@@ -1,7 +1,4 @@
-yaml
 payload:
-    - 'geosite:connectivity-check'
-    - 'geosite:private'
     - '*.pttime.online'
     - '*.hdchina.org'
     - '*.m-team.cc'
