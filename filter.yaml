@@ -23,6 +23,14 @@ payload:
 
   # synology
     - '+.synology.com'
+    - '+.synology.cn'
+    - '+.synology.me'
+    - '+.synologydownload.com'
+    - '+.synologyupdate.com'
+    - '+.quickconnect.to'
+    - '+.quickconnect.cn'
+    - 'checkip.dyndns.org'
+    - '+.synology.com'
     - '+.quickconnect.to'
     - '+.synology.me'
     - '+.familyds.com'
