@@ -1,5 +1,6 @@
 yaml
 payload:
+    - '+.asuscomm.com'
     - '*.pttime.online'
     - '*.hdchina.org'
     - '*.m-team.cc'
